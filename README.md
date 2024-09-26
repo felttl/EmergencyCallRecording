@@ -1,6 +1,6 @@
 # PhoneCallRecording - enregistreur d'appel
 
-allow you to record phone discussion only fully without data modifications (create a static file that cannot be changed and also be used in a courthouse (tribunal)
+allow you to record phone discussion only fully without data modifications (create a static file that cannot be changed and also be used in a courthouse (tribunal))
 
 ### for safety reasons (data corruption)
 
